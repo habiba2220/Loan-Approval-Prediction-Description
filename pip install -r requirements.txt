@@ -1,0 +1,6 @@
+
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset) and place it in the data folder.
+
+## Usage
+
+Run the Jupyter notebook to see the complete analysis:
